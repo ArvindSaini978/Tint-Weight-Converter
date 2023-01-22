@@ -157,7 +157,7 @@ const calculateWeight = () => {
     };
 
     // from a unit to same unit
-    if (selectBox1.value === selectBox2.value) {
+    if (selectBox1.value === selectBox2.value && selectBox1.value !=="") {
         inputBox2.value = inputValue
     }
 
@@ -322,7 +322,7 @@ const calculateWeightReverse = () => {
     };
 
     // from a unit to same unit
-    if (selectBox2.value === selectBox1.value) {
+    if (selectBox2.value === selectBox1.value && selectBox1.value !=="") {
         inputBox1.value = inputValue
     }
 
