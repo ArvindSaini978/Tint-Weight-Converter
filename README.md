@@ -12,7 +12,7 @@ Tint Weight Converter is a Web based weight converter. It can convert weight fro
 * CSS
 * JavaScript
 ## Setup
-Just open index.html file in your browser to launch the app.
+Just open ``` index.html ``` file in your browser to launch the app.
 ## Contribution
 Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project.
 1. #### Report a bug
