@@ -2,11 +2,14 @@
 #### Advanced Calclulator made with pure HTML, CSS and JavaScript.
 ## Table of contents
 * [General info](#general-info)
+* [Get started](#get-started)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Contribution](#contribution)
 ## General Info
 Tint Weight Converter is a Web based weight converter. It can convert weight from many units to another. This is made with pure HTML, CSS, JavaScript.
+## Get started
+You can use it right now by going to [Tint weight converter](https://tint-weight-converter.onrender.com)
 ## Technologies 
 * HTML
 * CSS
