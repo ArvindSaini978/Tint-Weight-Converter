@@ -1,5 +1,5 @@
 # Tint Weight Converter
-#### Advanced Calclulator made with pure HTML, CSS and JavaScript.
+#### A web based weight conversion utility made with pure HTML, CSS and JavaScript.
 ## Table of contents
 * [General info](#general-info)
 * [Get started](#get-started)
